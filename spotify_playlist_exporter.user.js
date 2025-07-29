@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Export all song titles and artists from Spotify playlist or liked songs page to clipboard or .txt file
-// @author       AI
+// @author       icey4826
 // @match        https://open.spotify.com/*
 // @grant        GM_setClipboard
 // ==/UserScript==
